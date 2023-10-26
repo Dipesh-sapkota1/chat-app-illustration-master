@@ -25,7 +25,6 @@
 }
 body{
     font-family: 'Rubik', sans-serif;
-    overflow: hidden;
 }
 .fa-circle{color: var(--clr-radio-btn-outline);}
 .fa-solid{color: var(--clr-white);}
