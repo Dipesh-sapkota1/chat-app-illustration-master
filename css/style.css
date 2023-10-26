@@ -53,8 +53,8 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    width: 180px;
-    height: 55vh;
+    width: 210px;
+    height: 80vh;
     border-radius: 0 0 200px;
     background-image: var(--gr-purple);
     background-size: 100vw;
@@ -197,6 +197,7 @@ body{
 .text-heading{
     color: var(--clr-main-heading);
     margin-bottom: 1rem;
+    font-size: 2rem;
     font-weight: var(--fw-500);
 }
 .text-content{
